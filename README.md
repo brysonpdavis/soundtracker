@@ -1,6 +1,6 @@
 # soundtracker
 
-A webapp for extracting a Spotify playlist of songs out of a YouTube video.
+A webapp for extracting a Spotify playlist of songs out of a YouTube video
 
 Currently in development by Nate Selzer and Bryson Davis
 
